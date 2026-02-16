@@ -1,0 +1,53 @@
+{
+	"PCs": {
+		"TUAN": {
+			"CPU": "12th Gen Intel(R) Core(TM) i5-12400F (2.50 GHz)",
+			"GPU": "NVIDIA GeForce RTX 3060 12GB",
+			"RAM": "32GB DDR4",
+			"Storage": "Samsung 970 EVO Plus NVMe SSD 1TB",
+			"Motherboard": "ASUS Prime B760M-K D4",
+			"Power Supply": "Corsair RM750x 80+ Gold",
+			"Cooling": "JONSBO CR-1000 EVO Black RGB",
+			"Monitor": "Dell S2419HGF 24 inch FHD 144Hz"
+		},
+		"MACBOOK PRO M3 14": {
+
+		}
+	},
+	"Mobile": {
+		"iPhone 13 Pro Max": {
+			"CPU": "Apple A15 Bionic",
+			"RAM": "6GB",
+			"Storage": "256GB (available up to 1TB)",
+			"Max Storage": "1TB",
+			"Display": "6.7-inch Super Retina XDR OLED, ProMotion 120Hz (2778×1284, ~458 ppi)",
+			"Rear Camera": "Triple 12MP (Wide ƒ/1.5 with sensor-shift OIS, Ultra Wide ƒ/1.8, Telephoto ƒ/2.8, 3× optical zoom), LiDAR",
+			"Front Camera": "12MP TrueDepth",
+			"Video": "4K up to 60fps; Dolby Vision HDR; ProRes (4K/30fps requires 256GB+)",
+			"Battery": "Up to 28 hours video playback (Apple estimate)",
+			"Battery_mAh": "4352 mAh (teardown estimate)",
+			"Fast Charging": "20W (Apple-specified; actual adapter sold separately)",
+			"Weight": "238 g",
+			"Connectivity": "5G, Wi-Fi 6 (802.11ax), Bluetooth 5.0, Ultra Wideband (U1), NFC",
+			"Water Resistance": "IP68 (up to 6 meters for 30 minutes)",
+			"OS": "iOS 15 (upgradable)",
+			"Colors": "Graphite"
+		},
+		"iPad Gen 9th": {
+			"CPU": "A13 Bionic",
+			"RAM": "3GB",
+			"Storage": "64GB (also available in 256GB)",
+			"Display": "10.2-inch Retina display (2160×1620, 264 ppi), True Tone",
+			"Rear Camera": "8MP Wide (ƒ/2.4)",
+			"Front Camera": "1.2MP FaceTime HD (720p)",
+			"Video": "1080p HD video recording at 30 fps",
+			"Battery": "Up to 10 hours surfing the web on Wi‑Fi (Apple estimate)",
+			"Charging": "Lightning connector; supports 20W fast-charge with compatible adapter",
+			"Connectivity": "Wi‑Fi 802.11ac, Bluetooth 4.2, Optional LTE (cellular models)",
+			"Sensors": "Touch ID (Home button), accelerometer, ambient light sensor, barometer",
+			"Weight": "487 g (Wi‑Fi), 498 g (Cellular)",
+			"OS": "iPadOS 15 (upgradable)",
+			"Colors": "Space Gray"
+		}
+	}
+}
