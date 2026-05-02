@@ -10,8 +10,9 @@
 			"Cooling": "JONSBO CR-1000 EVO Black RGB",
 			"Monitor": "Dell S2419HGF 24 inch FHD 144Hz"
 		},
-		"MACBOOK PRO M3 14": {
-
+		"MACBOOK PRO M4 14": {
+			"Memory" : "16 GB",
+			"Storage" : "500 GB"
 		}
 	},
 	"Mobile": {
