@@ -14,59 +14,79 @@
 			"Monitor_3": "Dell S2419HGF 24 inch FHD 144Hz"
 		},
 		"FUTURE_UPGARDE": {
-			"CPU": "i7-14700",
-			"GPU": {
-				"Option_1": {
-					"name:": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC 16GB GDDR7 (MyGear.com.vn)",
-					"retailer": "MyGear.com.vn",
-					"price": "31.590.000,00 VND",
-					"url": "https://mygear.com.vn/card-man-hinh-msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-gddr7"
+			"CPU": {
+				"priority": "C",
+				"options": {
+					"1": {
+						"name": "Intel Core i7-14700 Up to 5.4GHz 20 cores 28 threads",
+						"retailer": "Gearvn.com",
+						"price": "11.490.000,00 VND",
+						"url": "https://gearvn.com/products/bo-vi-xu-ly-intel-core-i7-14700"
+					}
 				}
 			},
-			"RAM": "64GB DDR4 (2×32GB)",
-			"Storage": "Samsung 970 EVO Plus NVMe SSD 1TB",
-			"Motherboard": "ASUS Prime B760M-K D4",
+			"GPU": {
+				"priority": "A",
+				"options": {
+					"1": {
+						"name": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC 16GB GDDR7 (MyGear.com.vn)",
+						"retailer": "MyGear.com.vn",
+						"price": "31.590.000,00 VND",
+						"url": "https://mygear.com.vn/card-man-hinh-msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-gddr7"
+					}
+				}
+			},
 			"PowerSupply": {
-				"Option_1": {
-					"name": "Corsair RM1000x - 1000W - Cybenetics Gold - Full Modular (CP-9020275-NA)",
-					"retailer": "PhongVu.vn",
-					"price": "4.990.000,00 VND",
-					"url:": "https://phongvu.vn/nguon-may-tinh-corsair-rm1000x-shift-80-plus-gold-white-full-modular-cp-9020275-na--s260302503?srsltid=AfmBOoruG4NHSsJQGH-UQNg0VM5Mwa9a58N_ZCLqQeKgEzUtnkEJbAVs"
-				},
-				"Option_2": "Corsair RM1000e ATX 3.0 - 80 Plus Gold - Full Modular (1000W) (CP-9020264-NA)",
-				"Option_3": "Corsair RM1200x Shift 1200W 80 Plus Gold CP-9020254-NA"
+				"priority": "E",
+				"options": {
+					"1": {
+						"name": "Corsair RM1000x - 1000W - Cybenetics Gold - Full Modular (CP-9020275-NA)",
+						"retailer": "PhongVu.vn",
+						"price": "4.990.000,00 VND",
+						"url": "https://phongvu.vn/nguon-may-tinh-corsair-rm1000x-shift-80-plus-gold-white-full-modular-cp-9020275-na--s260302503?srsltid=AfmBOoruG4NHSsJQGH-UQNg0VM5Mwa9a58N_ZCLqQeKgEzUtnkEJbAVs"
+					},
+					"2": {
+						"name": "Corsair RM1000e ATX 3.0 - 80 Plus Gold - Full Modular (1000W) (CP-9020264-NA)"
+					},
+					"3": {
+						"name": "Corsair RM1200x Shift 1200W 80 Plus Gold CP-9020254-NA"
+					}
+				}
 			},
 			"Cooling": {
-				"Option_1": {
-					"name:": "Thermalright Phantom Spirit 120 SE",
-					"retailer": "Tinhocngoisao.com",
-					"price": "889.000,00 VND",
-					"url": "https://tinhocngoisao.com/products/tan-nhiet-khi-cpu-thermalright-phantom-spirit-120-se-den-2-thap?srsltid=AfmBOoq6oz9oCEt1C9JO2nUHbt7Tdyr8GrmpxDzamiOFHJod3VWBr2Si"
-				},
-				"Option_2": {
-					"name:": "Deepcool AK620 WH R-AK620-WHNNMT-G-1",
-					"retailer": "Memoryzone.com",
-					"price": "1.450.000,00 VND",
-					"url": "https://memoryzone.com.vn/tan-nhiet-khi-deepcool-ak620-wh-r-ak620-whnnmt-g-1"
+				"priority": "B",
+				"options": {
+					"1": {
+						"name": "Thermalright Phantom Spirit 120 SE",
+						"retailer": "Tinhocngoisao.com",
+						"price": "889.000,00 VND",
+						"url": "https://tinhocngoisao.com/products/tan-nhiet-khi-cpu-thermalright-phantom-spirit-120-se-den-2-thap?srsltid=AfmBOoq6oz9oCEt1C9JO2nUHbt7Tdyr8GrmpxDzamiOFHJod3VWBr2Si"
+					},
+					"2": {
+						"name": "Deepcool AK620 WH R-AK620-WHNNMT-G-1",
+						"retailer": "Memoryzone.com",
+						"price": "1.450.000,00 VND",
+						"url": "https://memoryzone.com.vn/tan-nhiet-khi-deepcool-ak620-wh-r-ak620-whnnmt-g-1"
+					}
 				}
 			},
 			"Case": {
-				"Option_1": {
-					"name": "Fractal North Chalk White TG Clear Tint FD-C-NOR1C-04",
-					"retailer": "Memoryzone.com",
-					"price": "4.290.000,00 VND",
-					"url": "https://memoryzone.com.vn/case-may-tinh-fractal-north-chalk-white-tg-clear-tint-fd-c-nor1c-04"
-				},
-				"Option_2": {
-					"name": "Corsair 5000D CORE AIRFLOW Mid-Tower ATX PC Case",
-					"retailer": "tncstore.vn",
-					"price": "2.699.000,00 VND",
-					"url": "https://www.tncstore.vn/vo-may-tinh-corsair-5000d-airflow-core-black.html"
+				"priority": "D",
+				"options": {
+					"1": {
+						"name": "Fractal North Chalk White TG Clear Tint FD-C-NOR1C-04",
+						"retailer": "Memoryzone.com",
+						"price": "4.290.000,00 VND",
+						"url": "https://memoryzone.com.vn/case-may-tinh-fractal-north-chalk-white-tg-clear-tint-fd-c-nor1c-04"
+					},
+					"2": {
+						"name": "Corsair 5000D CORE AIRFLOW Mid-Tower ATX PC Case",
+						"retailer": "tncstore.vn",
+						"price": "2.699.000,00 VND",
+						"url": "https://www.tncstore.vn/vo-may-tinh-corsair-5000d-airflow-core-black.html"
+					}
 				}
-			},
-			"Monitor_1": "AOC Q274GS 27 inch 2K 320Hz",
-			"Monitor_2": "BenQ RD280U 28 inch 4K 60Hz",
-			"Monitor_3": "Dell S2419HGF 24 inch FHD 144Hz"
+			}
 		},
 		"MACBOOK PRO M4 14": {
 			"Memory": "16 GB",
