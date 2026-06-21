@@ -16,6 +16,7 @@
 		"FUTURE_UPGARDE": {
 			"CPU": {
 				"priority": "C",
+				"status": "Pending",
 				"options": {
 					"1": {
 						"name": "Intel Core i7-14700 Up to 5.4GHz 20 cores 28 threads",
@@ -27,6 +28,7 @@
 			},
 			"GPU": {
 				"priority": "A",
+				"status": "Pending",
 				"options": {
 					"1": {
 						"name": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC 16GB GDDR7 (MyGear.com.vn)",
@@ -38,6 +40,7 @@
 			},
 			"PowerSupply": {
 				"priority": "E",
+				"status": "Pending",
 				"options": {
 					"1": {
 						"name": "Corsair RM1000x - 1000W - Cybenetics Gold - Full Modular (CP-9020275-NA)",
@@ -55,14 +58,21 @@
 			},
 			"Cooling": {
 				"priority": "B",
+				"status": "Purchased",
 				"options": {
 					"1": {
-						"name": "Thermalright Phantom Spirit 120 SE",
-						"retailer": "Tinhocngoisao.com",
-						"price": "889.000,00 VND",
-						"url": "https://tinhocngoisao.com/products/tan-nhiet-khi-cpu-thermalright-phantom-spirit-120-se-den-2-thap?srsltid=AfmBOoq6oz9oCEt1C9JO2nUHbt7Tdyr8GrmpxDzamiOFHJod3VWBr2Si"
+						"name": "Thermalright Phantom Spirit 120 SE ARGB",
+						"retailer": "TPassion",
+						"price": "825.860,00 VND",
+						"url": "https://shopee.vn/T%E1%BA%A3n-nhi%E1%BB%87t-kh%C3%AD-CPU-Thermalright-Phantom-Spirit-120-SE-AGHP-Gen-4-BLACK-LED-ARGB-Ch%C3%ADnh-h%C3%A3ng-7-%E1%BB%91ng-%C4%91%E1%BB%93ng-sk-1700-PS120-i.1218975529.24321232060"
 					},
 					"2": {
+						"name": "Noctua NH-D15",
+						"retailer": "N/A",
+						"price": "3.xxx.xxx VND",
+						"url": "N/A"
+					},
+					"3": {
 						"name": "Deepcool AK620 WH R-AK620-WHNNMT-G-1",
 						"retailer": "Memoryzone.com",
 						"price": "1.450.000,00 VND",
@@ -72,12 +82,14 @@
 			},
 			"Case": {
 				"priority": "D",
+				"status": "Purchased",
 				"options": {
 					"1": {
 						"name": "Fractal North Chalk White TG Clear Tint FD-C-NOR1C-04",
 						"retailer": "Memoryzone.com",
-						"price": "4.290.000,00 VND",
-						"url": "https://memoryzone.com.vn/case-may-tinh-fractal-north-chalk-white-tg-clear-tint-fd-c-nor1c-04"
+						"price": "3.508.200,00 VND",
+						"url": "https://shopee.vn/V%E1%BB%8F-Case-M%C3%A1y-T%C3%ADnh-Fractal-Design-North-Chalk-White-TG-Clear-Tint-M%E1%BA%B7t-K%C3%ADnh-Glass-i.1664962064.48251293071",
+						"url_bak": "https://memoryzone.com.vn/case-may-tinh-fractal-north-chalk-white-tg-clear-tint-fd-c-nor1c-04"
 					},
 					"2": {
 						"name": "Corsair 5000D CORE AIRFLOW Mid-Tower ATX PC Case",
