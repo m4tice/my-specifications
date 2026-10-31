@@ -19,6 +19,10 @@
 				"status": "Pending",
 				"options": {
 					"1": {
+						"name": "AMD Ryzen 7 9800X3D",
+						"price": "11.500.000,00 VND"
+					},
+					"2": {
 						"name": "Intel Core i7-14700 Up to 5.4GHz 20 cores 28 threads",
 						"retailer": "Gearvn.com",
 						"price": "11.490.000,00 VND",
