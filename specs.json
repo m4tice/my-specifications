@@ -63,49 +63,6 @@
 						"name": "Corsair RM1200x Shift 1200W 80 Plus Gold CP-9020254-NA"
 					}
 				}
-			},
-			"Cooling": {
-				"priority": "B",
-				"status": "Purchased",
-				"options": {
-					"1": {
-						"name": "Thermalright Phantom Spirit 120 SE ARGB",
-						"retailer": "TPassion",
-						"price": "825.860,00 VND",
-						"url": "https://shopee.vn/T%E1%BA%A3n-nhi%E1%BB%87t-kh%C3%AD-CPU-Thermalright-Phantom-Spirit-120-SE-AGHP-Gen-4-BLACK-LED-ARGB-Ch%C3%ADnh-h%C3%A3ng-7-%E1%BB%91ng-%C4%91%E1%BB%93ng-sk-1700-PS120-i.1218975529.24321232060"
-					},
-					"2": {
-						"name": "Noctua NH-D15",
-						"retailer": "N/A",
-						"price": "3.xxx.xxx VND",
-						"url": "N/A"
-					},
-					"3": {
-						"name": "Deepcool AK620 WH R-AK620-WHNNMT-G-1",
-						"retailer": "Memoryzone.com",
-						"price": "1.450.000,00 VND",
-						"url": "https://memoryzone.com.vn/tan-nhiet-khi-deepcool-ak620-wh-r-ak620-whnnmt-g-1"
-					}
-				}
-			},
-			"Case": {
-				"priority": "D",
-				"status": "Purchased",
-				"options": {
-					"1": {
-						"name": "Fractal North Chalk White TG Clear Tint FD-C-NOR1C-04",
-						"retailer": "Memoryzone.com",
-						"price": "3.508.200,00 VND",
-						"url": "https://shopee.vn/V%E1%BB%8F-Case-M%C3%A1y-T%C3%ADnh-Fractal-Design-North-Chalk-White-TG-Clear-Tint-M%E1%BA%B7t-K%C3%ADnh-Glass-i.1664962064.48251293071",
-						"url_bak": "https://memoryzone.com.vn/case-may-tinh-fractal-north-chalk-white-tg-clear-tint-fd-c-nor1c-04"
-					},
-					"2": {
-						"name": "Corsair 5000D CORE AIRFLOW Mid-Tower ATX PC Case",
-						"retailer": "tncstore.vn",
-						"price": "2.699.000,00 VND",
-						"url": "https://www.tncstore.vn/vo-may-tinh-corsair-5000d-airflow-core-black.html"
-					}
-				}
 			}
 		},
 		"MACBOOK PRO M4 14": {
