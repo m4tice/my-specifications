@@ -63,6 +63,39 @@
 						"name": "Corsair RM1200x Shift 1200W 80 Plus Gold CP-9020254-NA"
 					}
 				}
+			},
+			"RAM": {
+				"priority": "B",
+				"status": "Pending",
+				"options": {
+					"1": {
+						"name": "Corsair Vengeance CMK32GX5M2B6000Z30 DDR5-6000 CL30",
+					},
+					"2": {
+						"name": "Kingston Fury Beast EXPO KF560C30BBEK2-32 DDR5-6000 CL30"
+					},
+					"3": {
+						"name": "G.SKILL Flare X5 F5-6000J3038F16GX2-FX5 DDR5-6000 CL30"
+					},
+					"4": {
+						"name": "ADATA XPG Lancer Blade AX5U6000C3016G-DTLABBK DDR5-6000 CL30"
+					},
+					"5": {
+						"name": "Crucial Pro CP2K16G60C36U5B DDR5-6000 CL36"
+					}
+					"6": {
+						"name": "Crucial Pro OC CP2K16G64C32U5B DDR5-6400 CL32-40-40-103"
+					}
+				}
+			},
+			"Motherboard": {
+				"priority": "D",
+				"status": "Pending",
+				"options": {
+					"1": {
+						"name": "MSI MAG B850 Tomahawk MAX WIFI",
+					}
+				}
 			}
 		},
 		"MACBOOK PRO M4 14": {
