@@ -1,7 +1,7 @@
 {
 	"PCs": {
 		"TUAN": {
-			"CPU": "12th Gen Intel(R) Core(TM) i5-12400F (2.50 GHz)",
+			"CPU": "12th Gen Intel(R) Core(TM) i5-12400F (2.50 GHz) Socket V (LGA1700)",
 			"GPU": "ZOTAC NVIDIA GeForce RTX 3060 12GB",
 			"RAM": "Corsair Vengeance RGB Pro 32GB (2×16GB) DDR4-3200 CL16 CMW32GX4M2Z3200C16",
 			"Storage": "Samsung 970 EVO Plus NVMe SSD 1TB",
