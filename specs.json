@@ -2,7 +2,7 @@
 	"PCs": {
 		"TUAN": {
 			"CPU": "12th Gen Intel(R) Core(TM) i5-12400F (2.50 GHz) Socket V (LGA1700)",
-			"GPU": "ZOTAC NVIDIA GeForce RTX 3060 12GB",
+			"GPU": "NVIDIA MSI GeForce RTX 5070 Ti GAMING TRIO OC 16GB GDDR7 SDRAM"
 			"RAM": "Corsair Vengeance RGB Pro 32GB (2×16GB) DDR4-3200 CL16 CMW32GX4M2Z3200C16",
 			"Storage": "Samsung 970 EVO Plus NVMe SSD 1TB",
 			"Motherboard": "ASUS Prime B760M-K D4",
@@ -14,12 +14,13 @@
 			"Monitor_3": "Dell S2419HGF 24 inch FHD 144Hz"
 		},
 		"Spare": {
+			"GPU": "ZOTAC NVIDIA GeForce RTX 3060 12GB",
 			"Case": "KENOO ESPORT MCK 100 Black",
 			"Cooling": "Thermalright Phantom Spirit 120 SE ARGB"
 		},
 		"FUTURE_UPGARDE": {
 			"CPU": {
-				"priority": "C",
+				"priority": "B",
 				"status": "Pending",
 				"options": {
 					"1": {
@@ -33,21 +34,9 @@
 						"url": "https://gearvn.com/products/bo-vi-xu-ly-intel-core-i7-14700"
 					}
 				}
-			},
-			"GPU": {
-				"priority": "A",
-				"status": "Pending",
-				"options": {
-					"1": {
-						"name": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC 16GB GDDR7 (MyGear.com.vn)",
-						"retailer": "MyGear.com.vn",
-						"price": "31.590.000,00 VND",
-						"url": "https://namanhpc.vn/vga-msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-plus-2980.html"
-					}
-				}
-			},
+			}
 			"PowerSupply": {
-				"priority": "E",
+				"priority": "D",
 				"status": "Pending",
 				"options": {
 					"1": {
@@ -65,7 +54,7 @@
 				}
 			},
 			"RAM": {
-				"priority": "B",
+				"priority": "A",
 				"status": "Pending",
 				"options": {
 					"1": {
@@ -89,7 +78,7 @@
 				}
 			},
 			"Motherboard": {
-				"priority": "D",
+				"priority": "C",
 				"status": "Pending",
 				"options": {
 					"1": {
